@@ -1,0 +1,19 @@
+.form {
+    color: black
+}
+.form--theme-xmas {
+    color: blue
+}
+.form--simple {
+    color: palevioletred;
+}
+.form__input {
+    color: darkgreen;
+}
+.form__submit {
+    color: sandybrown;
+}
+.form__submit--disabled {
+    background-color: darkgreen;
+    color: aquamarine;
+}
